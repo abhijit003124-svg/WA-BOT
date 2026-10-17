@@ -1,0 +1,19 @@
+
+{
+  "name": "demon-eye-md",
+  "version": "1.0.0",
+  "description": "DEMON EYE WhatsApp MD Bot",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.18",
+    "dotenv": "^16.4.7",
+    "pino": "^9.6.0"
+  }
+}
